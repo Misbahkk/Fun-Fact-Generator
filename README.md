@@ -4,6 +4,7 @@
 This is a simple web application that generates random fun facts. It uses the pywebio library for creating the web interface and the requests library for making HTTP requests.
 
 
+<img width="678" alt="Screenshot 2024-02-23 220509" src="https://github.com/Misbahkk/Fun-Fact-Generator/assets/107263622/cef4a9be-c5ad-4c74-94f5-6e1ec480428e">
 
 
 ## Installation  🛠️
@@ -11,8 +12,8 @@ This is a simple web application that generates random fun facts. It uses the py
 1. Clone the repository:
 
 ```bash
-  npm install my-project
-  cd my-project
+  [npm install my-project
+  cd my-project](https://github.com/Misbahkk/Fun-Fact-Generator.git)
 ```
 
 2. Navigate to the project directory:
